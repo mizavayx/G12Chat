@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754292960907",
+    "firebase_url": "https://group12-chat-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "group12-chat-app",
+    "storage_bucket": "group12-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754292960907:android:256868ab7d47ebe4c7ee8e",
+        "android_client_info": {
+          "package_name": "com.group12.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754292960907-41si226q19ofkico3eq00uvjfbfqj437.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpIjr0U6z2r7q-2S-y_bplsyF4dAvAYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754292960907-41si226q19ofkico3eq00uvjfbfqj437.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
